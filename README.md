@@ -1,1 +1,1 @@
-- - - - - - -MACHINE LEARNING NOTES - - - - - - -
+<h2>MACHINE LEARNING NOTES</h2>
